@@ -1,0 +1,47 @@
+ARITHMETIOORUM LIBER TERTIUS. 171
+
+Ponatur
+
+X1=a‚ X2=4a†4‚ X3=l,
+ut satisfiat duabus conditionibus.
+Restat ut X3X1-t- X? faciat quadratum. Sed
+
+X3X1 -Ι- X? facit 16x² -Ι- 33oe -Ι- 16. Ista aequen-
+tur t] a radice (re-5), hoe est 16x2 -Ι- 25 - 40u3
+
+ῶωεέ
+
+Erit
+Xl = 9, X2 = 328, Χ3 = 73,
+
+et problema solvunt.
+XV.
+
+Invenire tres numeros tales ut productus binorum 1⁷
+quorumvis plus summa amborum faeiat quadratum.
+
+Quorumvis iam quadratorum duorum ex ordine
+sumptorum productus plus summa amborum facit
+quadratum. Ι
+
+Ponatur igitur
+
+n=nn=a
+
+ut productus² quadratus nempe 36, plus summa arn·
+borum, faciat quadratum. Restat ut et
+
+nu÷ffi÷n)amm uu÷Q÷n)
+
+faciant quadratos.
+Ponatur X8 = a. Fit
+
+X2X3†(X2†X3)=le-{-9=[]
+X3X1†(X3†X1)=5x†4=U.
+Et rursus fit hic dupla aequatio et est differentia
+
+550 -1-5. Quaero igitur rursus duos numeros quorum
+productus sit bu -Ι- 5.
+
+ 
+

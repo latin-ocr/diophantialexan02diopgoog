@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./diophantialexan02diopgoog_0015.png"; bbox 0 0 2536 3970; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 109 1310 1051 1424">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 109 1310 1051 1424">
+     <span class='ocr_line' id='line_1_1' title="bbox 109 1310 1051 1424; baseline 0 -2"><span class='ocrx_word' id='word_1_1' title='bbox 109 1310 506 1424; x_wconf 80' lang='lat' dir='ltr'><strong>DIOPHANTI</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 547 1310 1051 1424; x_wconf 79' lang='lat' dir='ltr'><strong>ALEXANDRINI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 309 1633 847 1719">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 309 1633 847 1719">
+     <span class='ocr_line' id='line_1_2' title="bbox 309 1633 847 1719; baseline -0.002 -1"><span class='ocrx_word' id='word_1_3' title='bbox 309 1633 847 1719; x_wconf 77' lang='lat' dir='ltr'><strong>ARITHMETIOORUM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 462 1872 699 1939">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 462 1872 699 1939">
+     <span class='ocr_line' id='line_1_3' title="bbox 462 1872 699 1939; baseline 0.004 -2"><span class='ocrx_word' id='word_1_4' title='bbox 462 1872 583 1938; x_wconf 85' lang='lat' dir='ltr'>LIBRI</span> <span class='ocrx_word' id='word_1_5' title='bbox 607 1873 699 1939; x_wconf 83' lang='lat' dir='ltr'>SEX.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 203 2105 961 2191">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 203 2105 961 2191">
+     <span class='ocr_line' id='line_1_4' title="bbox 203 2105 961 2191; baseline 0.003 -3"><span class='ocrx_word' id='word_1_6' title='bbox 203 2105 281 2188; x_wconf 85' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 321 2105 651 2191; x_wconf 80' lang='lat' dir='ltr'>POLYGONIS</span> <span class='ocrx_word' id='word_1_8' title='bbox 692 2105 961 2190; x_wconf 80' lang='lat' dir='ltr'>NUMERIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 513 2345 655 2412">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 513 2345 655 2412">
+     <span class='ocr_line' id='line_1_5' title="bbox 513 2345 655 2412; baseline 0.007 -2"><span class='ocrx_word' id='word_1_9' title='bbox 513 2345 655 2412; x_wconf 79' lang='lat' dir='ltr'>LIBER.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1272 3970">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1272 3970">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1272 3970; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1272 3970; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
